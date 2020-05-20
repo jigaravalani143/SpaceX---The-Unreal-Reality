@@ -101,7 +101,7 @@ It is developed in cross-platform environment i.e. on Android and iOS.
     - Android and iOS Xcode SDK
     - IBM Watson
     
-## Technology Used
+## Contributors
    - **Jigar Avalani - (jigaravalani143@gmail.com)**
    - **Harsh Shah - (harshsshah999@gmail.com)**
    - **Rahil Vithalani - (rvithalani.rjv@gmail.com)**
