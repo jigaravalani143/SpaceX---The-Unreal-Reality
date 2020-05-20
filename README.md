@@ -100,3 +100,8 @@ It is developed in cross-platform environment i.e. on Android and iOS.
     - Google Cardboard (VR plugin)
     - Android and iOS Xcode SDK
     - IBM Watson
+    
+## Technology Used
+   - **Jigar Avalani - (jigaravalani143@gmail.com)**
+   - **Harsh Shah - (harshsshah999@gmail.com)**
+   - **Rahil Vithalani - (rvithalani.rjv@gmail.com)**
